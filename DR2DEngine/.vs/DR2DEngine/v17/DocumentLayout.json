@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|solutionrelative:DR2DEngine\\DR2DEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|solutionrelative:EngineDemo\\GameProcessWin32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|solutionrelative:EngineDemo\\GameProcessWin32.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\IDREngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|solutionrelative:DR2DEngine\\IDREngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|solutionrelative:DR2DEngine\\DR2DEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DRMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0483E804-AD69-4FC1-88A4-78858EA50DF5}|DR2DEngine\\DR2DEngine.vcxproj|solutionrelative:DR2DEngine\\DRMacro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\CGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|solutionrelative:EngineDemo\\CGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D13EAC79-8CB0-4995-BDC8-B1B874D901BB}|EngineDemo\\EngineDemo.vcxproj|solutionrelative:EngineDemo\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CGameObject.cpp",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\CGameObject.cpp",
+              "RelativeDocumentMoniker": "EngineDemo\\CGameObject.cpp",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\CGameObject.cpp",
+              "RelativeToolTip": "EngineDemo\\CGameObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T09:39:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinMain.cpp",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\WinMain.cpp",
+              "RelativeDocumentMoniker": "EngineDemo\\WinMain.cpp",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\WinMain.cpp",
+              "RelativeToolTip": "EngineDemo\\WinMain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T09:00:44.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DR2DEngine.cpp",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.cpp",
+              "RelativeDocumentMoniker": "DR2DEngine\\DR2DEngine.cpp",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.cpp",
+              "RelativeToolTip": "DR2DEngine\\DR2DEngine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T09:34:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DRMacro.h",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DRMacro.h",
+              "RelativeDocumentMoniker": "DR2DEngine\\DRMacro.h",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DRMacro.h",
+              "RelativeToolTip": "DR2DEngine\\DRMacro.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T09:30:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDREngine.h",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\IDREngine.h",
+              "RelativeDocumentMoniker": "DR2DEngine\\IDREngine.h",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\IDREngine.h",
+              "RelativeToolTip": "DR2DEngine\\IDREngine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T09:30:06.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameProcessWin32.h",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.h",
+              "RelativeDocumentMoniker": "EngineDemo\\GameProcessWin32.h",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.h",
+              "RelativeToolTip": "EngineDemo\\GameProcessWin32.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T09:14:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameProcessWin32.cpp",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.cpp",
+              "RelativeDocumentMoniker": "EngineDemo\\GameProcessWin32.cpp",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\EngineDemo\\GameProcessWin32.cpp",
+              "RelativeToolTip": "EngineDemo\\GameProcessWin32.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAhwDUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T09:14:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DR2DEngine.h",
+              "DocumentMoniker": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.h",
+              "RelativeDocumentMoniker": "DR2DEngine\\DR2DEngine.h",
+              "ToolTip": "F:\\GitHubWS\\DR2DEngine\\DR2DEngine\\DR2DEngine\\DR2DEngine.h",
+              "RelativeToolTip": "DR2DEngine\\DR2DEngine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-19T09:34:48.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
